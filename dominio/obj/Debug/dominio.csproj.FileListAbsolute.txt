@@ -1,0 +1,6 @@
+E:\Programacion UTN\Programacion 3\TP 2\TP2\dominio\bin\Debug\dominio.dll
+E:\Programacion UTN\Programacion 3\TP 2\TP2\dominio\bin\Debug\dominio.pdb
+E:\Programacion UTN\Programacion 3\TP 2\TP2\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+E:\Programacion UTN\Programacion 3\TP 2\TP2\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+E:\Programacion UTN\Programacion 3\TP 2\TP2\dominio\obj\Debug\dominio.dll
+E:\Programacion UTN\Programacion 3\TP 2\TP2\dominio\obj\Debug\dominio.pdb
